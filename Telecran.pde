@@ -1,6 +1,6 @@
 // Déplacement d'un rond dans une fenêtre 800 x 600 sur les deux axes avec deux potentiomètres.
 // Télécharger le module StandardFirmata sur l'Arduino pour la communication avec Processing.
-// 10-08-2007
+// 10-08-2017
 
 import processing.serial.*;
 import cc.arduino.*;
